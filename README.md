@@ -2,7 +2,7 @@
 
 This repo contains work on the South Side Housing Data Initiative through the Harris School of Public Policy.
 
-I visualize the distribution of federal affordable housing programs (Housing Choice Vouchers(HCV) and Project-Based Section 8(PBS8)) on different administrative and geographic levels in Chicago based on data from HUD. 
+I visualize the distribution of federal affordable housing programs (Housing Choice Vouchers(HCV), Project-Based Section 8(PBS8)) on different administrative and geographic levels in Chicago based on data from HUD using Python (GeoPandas).
 
 I also visualize the distribution, sizes, expiration dates of buildings under the Low-Income Housing Tax Credit(LIHTC) program. The map shows the distribution of LIHTC in a region on the South Side of Chicago and the impact of these expiring properties on the population living in those buildings.
 
